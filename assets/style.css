@@ -1,7 +1,7 @@
 /* everything */
 body {
 	font-family: Arial, sans-serif;
-	background-color: #f9f9f9;
+	background-color: #3f3f3f;
 }
 
 
@@ -23,7 +23,7 @@ h1 {
 /* content */
 body {
 	font-size: 12pt;
-	max-width: 800px;
+	max-width: 850px;
 	margin: auto;
 }
 
@@ -41,8 +41,13 @@ a:hover {
 	text-decoration: underline;
 }
 
+section {
+	background-color: #d7d6e0;
+	padding: 25px;
+}
+
 .about {
-	padding: 5px;
+	padding: 25px;
 }
 
 .projects article {
